@@ -1,1 +1,2 @@
 The first step with git
+modification 1
